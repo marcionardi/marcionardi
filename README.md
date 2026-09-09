@@ -1,4 +1,6 @@
-# Olá! 👋 Eu sou Marcio Pera
+# Olá! 👋 
+
+Bem vindo, eu sou o Marcio Pera
 
 ## Sobre Mim
 
