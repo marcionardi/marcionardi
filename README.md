@@ -72,19 +72,6 @@ Pós-graduado em **Gestão de TI pela FIAP**, com **7 certificações Microsoft*
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marciopera&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=378ADD&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciopera&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=c9d1d9" alt="Top Langs"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=marciopera&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1D9E75&fire=EF9F27&currStreakLabel=1D9E75" alt="GitHub Streak"/>
-</p>
-
----
-
 ### ✍️ Conteúdo técnico
 
 Publico regularmente sobre **Cloud**, **SRE**, **FinOps** e **DevOps** no LinkedIn.
