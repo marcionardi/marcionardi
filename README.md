@@ -1,3 +1,4 @@
+![alt text](banner.svg)
 ## Olá! 👋 
 
 ## Bem vindo, eu sou o Marcio Pera
