@@ -1,4 +1,3 @@
-![alt text](banner-1.svg)
 <p align="center">
   <img src="banner.svg" alt="Marcio Pera - Cloud & SRE" width="100%"/>
 </p>
